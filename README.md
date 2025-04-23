@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on **BookWorm Project**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ & DotNet**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
